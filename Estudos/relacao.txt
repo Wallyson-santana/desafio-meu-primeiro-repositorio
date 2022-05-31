@@ -1,4 +1,4 @@
 
 link do git: https://git-scm.com/download/win
 
-git é muito bom para guardar com segurança seus trabalhos.
+github é muito bom para guardar com segurança seus trabalhos.
